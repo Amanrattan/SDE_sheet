@@ -1,5 +1,5 @@
 package BinarySearchTree;
-
+//moris traversal = inorder traversal
 public class InOrderSuccessor {
         static Node prev = null;
         static Node succ = null;
